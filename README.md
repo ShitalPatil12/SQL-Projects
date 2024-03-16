@@ -5,6 +5,4 @@ This repository contains source code for popular SQL projects for beginners, int
 
 ## Library Management
 
-[View Source Code for Library Management](markdown_files/library_management.md)
-
 [Download Source Code for Library Management](library_management.sql)
